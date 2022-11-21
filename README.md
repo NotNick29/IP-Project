@@ -1,2 +1,2 @@
-# IP-Project
-IP project on hotel management
+# Nimesh-IP
+Home page made for nimesh for IP project
